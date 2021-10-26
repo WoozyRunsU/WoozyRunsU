@@ -1,14 +1,10 @@
 ## Welcome to the magical world of me aka Woozy 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
 ## Some useful things that u may want to know about me(or maybe no?)
-# My phone Brand
+# Phone Brand :
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-# Cuz some of my tools will need u to buy it so the payments method is :
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-# My virtual assistant irl :
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 
 
 

@@ -8,6 +8,7 @@
 - 📫 How to reach me : Discord
 - My Discord Account : NotYourRealWoozy♡#2424
 - My Backup Discord Account : I will make soon
+- [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 ## Some useful things that u may want to know about me(or maybe no?)
 # Phone Brand :

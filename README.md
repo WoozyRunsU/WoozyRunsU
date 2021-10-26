@@ -88,6 +88,7 @@ Fuck no,I don't have a store
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ## There's still Replit but I couldn't find a icon for it lmao,i hate glitch but i still have to use it ._. 
+# lol
 
 
 

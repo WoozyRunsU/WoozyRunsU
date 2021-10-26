@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+the+world+of+Woozy+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=and)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=New+tool+every+week)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/900555124940898324/902516258677854268/giphy-downsized-large.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 # Discord Status 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=<899806202186317894>)

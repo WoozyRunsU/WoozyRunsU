@@ -4,6 +4,10 @@
 ## Some useful things that u may want to know about me(or maybe no?)
 # Phone Brand :
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+## Some of my tools i put on here will require some moneys hehe :)
+# Payment Method :
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 
 
 
